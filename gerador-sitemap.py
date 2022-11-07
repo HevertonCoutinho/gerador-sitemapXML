@@ -1,6 +1,5 @@
 import csv  
 import pandas as pd
-from tkinter import *
 
 #gerador XML 
 #Abrir CSV           
